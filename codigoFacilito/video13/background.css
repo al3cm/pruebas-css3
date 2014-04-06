@@ -1,0 +1,12 @@
+body
+{
+	background-image: url(estrella.png), url(textura.jpg);
+	background-position: center, left top;
+	background-repeat: no-repeat, repeat;
+	background-size: 20% 40%;
+}
+.space
+{
+	height: 1200px;
+
+}

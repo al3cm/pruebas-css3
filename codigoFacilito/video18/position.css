@@ -1,0 +1,16 @@
+#contenido
+{
+	background-color: #003399;
+	height: 700px;
+	margin:0 auto;
+	width: 800px;
+}
+.div_prueba
+{
+	background-color: #333333;
+	height: 100px;
+	left: -10px;
+	position: fixed;
+	top: -10px;
+	width: 300px;	
+}

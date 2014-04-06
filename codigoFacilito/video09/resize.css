@@ -1,0 +1,8 @@
+.tamano
+{
+	border: solid; 
+	height: 30px;
+	overflow: hidden;
+	resize: both;
+	width: 30px;
+}

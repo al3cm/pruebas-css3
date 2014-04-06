@@ -1,0 +1,9 @@
+@font-face /**/
+{
+	font-family: "Digital";
+	src: url(dited.ttf), url(dited.eot), url(dited.otf);
+}
+.parrafo-personalizado
+{
+	font-family: 'Londrina Outline', cursive;
+}
